@@ -1,14 +1,6 @@
 body{
-    background-image: url('background.jpg');
-    background-repeat: no-repeat;
+    background: purple;
+    
 
     
-}
-li[data-choisi]{
-    padding: 10px;
-    margin:1px;
-    width: 50%;
-}
-li[data-choisi="true"]{
-    background: green;
 }
